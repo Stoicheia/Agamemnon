@@ -1,33 +1,12 @@
-# COMP1140 Assignment 2
+# Agamemnon
 
-## Academic Honesty and Integrity
+## About
 
-Honesty and integrity are of utmost importance. These goals are *not* at odds with being resourceful and working collaboratively. You *should* be resourceful, you should collaborate within your team, and you should discuss the assignment and other aspects of the course with others taking the class. However, *you must never misrepresent the work of others as your own*. If you have taken ideas from elsewhere or used code sourced from elsewhere, you must say so with *utmost clarity*. At each stage of the assignment you will be asked to submit a statement of originality, either as a group or as individuals. This statement is the place for you to declare which ideas or code contained in your submission were sourced from elsewhere.
+Welcome to Agamemnon! Google the game to read about how to play (or read below). This was done as an ANU assignment (COMP1140 - Structured Programming). Open game.jar to launch the game.
 
-Please read the ANU's [official position](http://academichonesty.anu.edu.au/) on academic honesty. If you have any questions, please ask me.
+Credit: Olin Gao(me), Dillon Chen, Alexander Cox, ANU CS department
 
-Carefully review the [statement of originality](originality.md) which you must complete.  Edit that statement and update it as you complete each stage of the assignment, ensuring that when you complete each stage, a truthful statement is committed and pushed to your repo.
-
-## Purpose
-
-In this assignment you will work as a group to master a number of major themes of this course,
-including software design and implementation,
-using development tools such as Git and IntelliJ, and using JavaFX to build a user interface.
-As an extension task, you may also explore strategies for writing agents that play games.
-Above all, this assignment will emphasize group work; 
-while you will receive an individual mark for your work based on your contributions to the assignment,
-you can only succeed if all members contribute to your group's success.
-
-## Assignment Deliverables
-
-The assignment is worth 25% of your total assessment, and it will be marked out of 25.
-So each mark in the assignment corresponds to a mark in your final assessment for the course.
-Note that for some stages of the assignment you will get a _group_ mark, and for others you will be _individually_ marked.
-The mark breakdown and the due dates are described on the [deliverables](https://cs.anu.edu.au/courses/comp1110/assessments/deliverables/) page.
-
-Your work will be marked via your tutor accessing Git, so it is essential that you carefully follow instructions for setting up and maintaining your group repository.
-At each deadline you will be marked according to whatever is committed to your repository at the time of the deadline.
-You will be assessed on how effectively you use Git as a development tool.
+Look at our presentation for more info: https://docs.google.com/presentation/d/1f7VVL9SG_bRTCbsR3ZZCtTBHCR7yoylX3uMJKuxcLNs/edit?usp=sharing
 
 ## Problem Description
 
