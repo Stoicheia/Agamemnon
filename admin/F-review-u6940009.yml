@@ -1,0 +1,28 @@
+# Write your name and UID here.
+#
+reviewer:
+    name: Olin Gao
+    uid: u6940009
+
+# Write the name of the author of the code here.
+#
+author:
+  name: Alexander Cox
+  uid: u6060697
+
+# Write the class or method being reviewed here.
+#
+component: Minimax.maximize(String[] state, String tile, boolean greek, int depth, int alpha, int beta)
+
+# Write a list of review comments here.
+#
+comments:
+  - Code appears to be a theoretically correct implementation of score maximization and pruning for minimax algorithm
+  - Code makes use of GameTree structure, which is an appropriate representation of gamestate that is easy to traverse and manipulate
+  - Maximize and minimize functions could be combined into a single function to decrease clutter and make it easier to update algorithm/fix bugs in the future
+  - Adheres to Java code conventions and is easy to read despite nested for and if statements
+  - The correctness of pruning could be tested by confirming equality with standard minimax bot
+  - Code is well commented with description of parameters, though further comments in the body of the function would make it easier to follow, verify correctness and build upon
+
+
+

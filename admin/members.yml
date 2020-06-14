@@ -1,0 +1,11 @@
+# List the membership of this group.  (Remove entries if you have fewer
+# than three members.)
+#
+
+members:
+  - name: Dillon Chen
+    uid: u6942650
+  - name: Alexander Cox
+    uid: u6060697
+  - name: Olin Gao
+    uid: u6940009

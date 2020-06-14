@@ -1,0 +1,146 @@
+# IMPORTANT: It is very important that you correctly complete this originality
+# statement.
+#
+# This is your statement of your submitted work being your own.
+# Incorrectly filling out this statement could lead to charges
+# of academic misconduct.
+# 
+# For information on how to fill this out correctly, see
+# https://cs.anu.edu.au/courses/comp1110/help/faq/09-originality/
+#
+
+declaration: >-
+  Stage G represents the culmination of the entire assignment.  We declare that
+  everything we have submitted for for all stages of this assignment was
+  entirely our own work, with the following exceptions:
+
+# Use this to list names of people who you collaborated with, and a
+# comment about what you collaborated on.
+#
+# Add as many "name+comment" entries as necessary
+# (or remove it altogether if you haven't collaborated with anyone)
+
+# Use this to list any code that you used that you did not write,
+# aside from code provided by the lecturer.  Provide a comment
+# explaining your use and the URL to that code and the licence for
+# that code
+#
+# Add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external code)
+
+# Use this to list any assets (artwork, sound, etc) that you used.
+# Provide a comment explaining your use of that asset and the URL
+# and license for the asset
+#
+# Add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external assets)
+assets:
+  - comment: Tile Ba
+    url: https://static.zerochan.net/Emilia.%28Re%3AZero%29.full.2040725.jpg
+    licence: CC BY-NC-SA 4.0
+    
+assets:
+  - comment: Tile Bb
+    url: https://i.pinimg.com/736x/c9/86/e0/c986e05dc5715f4276e9f829de703cbe.jpg
+    licence: CC BY-NC-SA 4.0
+
+assets:
+  - comment: Tile Bc
+    url: https://randomc.net/image/To%20Aru%20Kagaku%20no%20Railgun/To%20Aru%20Kagaku%20no%20Railgun%20-%20OP%20-%20Large%2001.jpg
+    licence: CC BY-NC-SA 4.0    
+
+assets:
+  - comment: Tile Bd
+    url: https://images8.alphacoders.com/599/thumb-1920-599179.png
+    licence: CC BY-NC-SA 4.0
+ 
+assets:
+  - comment: Tile Be
+    url: https://i.pinimg.com/736x/87/28/22/87282268279b55ae6def1d5df2babe37--fate-stay-night-anime-art.jpg
+    licence: CC BY-NC-SA 4.0    
+
+assets:
+  - comment: Tile Bf
+    url: https://pm1.narvii.com/5954/7bda1993c330c2be7f608b922b48d10b9a345906_hq.jpg
+    licence: CC BY-NC-SA 4.0    
+    
+assets:
+  - comment: Tile Bg
+    url: http://img2.wikia.nocookie.net/__cb20140604150820/p__/protagonist/images/d/d5/Shiro_no_game_no_life_by_yumikonagi-d7gr8xv.jpg
+    licence: CC BY-NC-SA 4.0       
+
+assets:
+  - comment: Tile Bh
+    url: https://randomc.net/image/Kaguya%20sama/Kaguya-sama%20wa%20Kokurasetai%20-%2004%20-%20Large%2015.jpg
+    licence: CC BY-NC-SA 4.0   
+
+assets:
+  - comment: Tile Bi
+    url: https://static.zerochan.net/Tsurumaki.Kokoro.full.2114324.jpg
+    licence: CC BY-NC-SA 4.0   
+
+assets:
+  - comment: Tile Bi
+    url: http://vignette2.wikia.nocookie.net/hyperdimensionneptunia/images/3/35/Neptune3.png/revision/latest?cb=20130522233658
+    licence: CC BY-NC-SA 4.0   
+
+assets:
+  - comment: Tile Oa
+    url: https://www.thefamouspeople.com/profiles/images/euclid-3.jpg
+    licence: CC BY-NC-SA 4.0   
+
+assets:
+  - comment: Tile Ob
+    url: https://upload.wikimedia.org/wikipedia/commons/d/d7/Leonhard_Euler.jpg
+    licence: CC BY-NC-SA 4.0   
+
+assets:
+  - comment: Tile Oc
+    url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Carl_Friedrich_Gauss_1840_by_Jensen.jpg/1200px-Carl_Friedrich_Gauss_1840_by_Jensen.jpg
+    licence: CC BY-NC-SA 4.0   
+    
+assets:
+  - comment: Tile Oj
+    url: https://maths-people.anu.edu.au/~angeltveit/Vigleikweb.jpg
+    licence: CC BY-NC-SA 4.0   
+    
+assets:
+  - comment: Tile Od
+    url: https://upload.wikimedia.org/wikipedia/commons/3/39/GodfreyKneller-IsaacNewton-1689.jpg
+    licence: CC BY-NC-SA 4.0     
+    
+assets:
+  - comment: Tile Oe
+    url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/HD.3F.191_%2811239892036%29.jpg/1200px-HD.3F.191_%2811239892036%29.jpg
+    licence: CC BY-NC-SA 4.0       
+       
+assets:
+  - comment: Tile Of
+    url: https://upload.wikimedia.org/wikipedia/commons/f/f3/Pierre_de_Fermat.jpg
+    licence: CC BY-NC-SA 4.0    
+ 
+assets:
+  - comment: Tile Og
+    url: http://www.asfera.info/files/Fck/file/Socium/625_big.jpg
+    licence: CC BY-NC-SA 4.0  
+    
+assets:
+  - comment: Tile Oh
+    url: https://upload.wikimedia.org/wikipedia/commons/3/37/Theodore_Kaczynski.jpg
+    licence: CC BY-NC-SA 4.0    
+    
+assets:
+  - comment: Tile Oi
+    url: https://38.media.tumblr.com/tumblr_mqghaxt51Q1rzs4vyo1_1374694810_cover.jpg
+    licence: CC BY-NC-SA 4.0          
+
+
+# Sign *your* name and uids here. (Remove entries if you have fewer
+# than three members.)
+signatures:
+  - name: Dillon Chen
+    uid: u6942650
+  - name: Alexander Cox
+    uid: u6060697
+  - name: Olin Gao
+    uid: u6940009

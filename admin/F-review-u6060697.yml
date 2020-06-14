@@ -1,0 +1,28 @@
+# Write your name and UID here.
+#
+reviewer:
+    name: Alexander Cox
+    uid: u6060697
+
+# Write the name of the author of the code here.
+#
+author:
+  name: Dillon Chen
+  uid: u6942650
+
+# Write the class or method being reviewed here.
+#
+component: players.Greedy.greedyMove
+
+# Write a list of review comments here.
+#
+comments: 
+    - It might be good to add more spacing between operators and identifiers,
+        - e.g., `if (tile2.length()!=0) {`
+        - could be, `if (tile2.length() != 0) {`
+    - line 35 ("tempaction = ...") is a bit long, you might want to split it over multiple lines, 
+        - add local variables to make it easier to read.
+    - I suspect you could reduce the conditionals starting `if (action1.charAt(1)=='j' && action2.charAt(1)=='j') {`
+        - do there really need to be so much code repition? Maybe there does, but it's not clear to me.
+    - The code itself is sensible and easy to understand. 
+    - You could add a few more explanatory comments.
